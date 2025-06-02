@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Build
+android/app/build/
+ios/Pods/
+
+# Logs
+*.log
+
+# React Native
+.expo/
