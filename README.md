@@ -5,6 +5,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
+![Screenshot 2025-06-03 095652](https://github.com/user-attachments/assets/a4e75610-27ea-4f9c-8bb1-c3d1b6ad272e)
 
 ## Step 1: Start Metro
 
